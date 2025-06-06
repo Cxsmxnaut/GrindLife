@@ -23,7 +23,7 @@ Platonic Relationship Building: Foster meaningful connections with various NPCs,
 
 Random Events & Achievements: Encounter unpredictable life events that introduce unique challenges or opportunities, and unlock achievements for significant milestones.
 
-Robust Save/Load System: Seamlessly save your game progress and resume your journey at any time.
+Robust Save/Load System: Seamlessly save your game progress and resume your journey at any time using grindlife_mega_save.json.
 
 Engaging Terminal UI: Designed for an intuitive and fun command-line experience with clear prompts and expressive messages.
 
@@ -34,13 +34,13 @@ Python 3.9 or higher installed on your system.
 Installation & Setup
 Clone the Repository:
 
-git clone https://github.com/your-username/GrindLife-Terminal-Game.git
+git clone https://github.com/Cxsmxnaut/GrindLife.git
 
-(Replace your-username/GrindLife-Terminal-Game.git with the actual URL of your GitHub repository.)
+(Remember to replace your-username/GrindLife-Terminal-Game.git with the actual URL of your GitHub repository.)
 
 Navigate to the Project Directory:
 
-cd GrindLife-Terminal-Game
+cd GrindLife
 
 Run the Game:
 
@@ -68,7 +68,7 @@ exit: Saves your current game progress and exits the application.
 Technologies Used
 Python: The core programming language for the game logic.
 
-JSON: Used for saving and loading game data.
+JSON: Used for saving and loading game data (grindlife_mega_save.json).
 
 Future Enhancements
 Potential future developments for GrindLife™ include:
