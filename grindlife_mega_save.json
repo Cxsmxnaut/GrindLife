@@ -1,0 +1,25 @@
+{
+    "name": "exit",
+    "age": 0,
+    "happiness": 65,
+    "intelligence": 50,
+    "charisma": 50,
+    "health": 72,
+    "energy": 100,
+    "xp": 0,
+    "rizz": 50,
+    "money": 100,
+    "job": "Unemployed Loser \ud83d\ude2d",
+    "education_level": "None",
+    "relationships": {},
+    "skills": [],
+    "inventory": {},
+    "assets": {
+        "housing": "Cardboard Box \ud83d\uddd1\ufe0f",
+        "vehicle": "None \ud83d\udeb6"
+    },
+    "achievements": [],
+    "debt": 0,
+    "investments": {},
+    "net_worth": 100
+}
